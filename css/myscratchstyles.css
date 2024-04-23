@@ -1,3 +1,7 @@
+
+body{
+    background-color: whitesmoke;
+}
 h1{
     color: rgb(5, 5, 97);
     font-family: cursive;
@@ -31,7 +35,6 @@ h1{
 
 .bodytextcenter{
     text-align: center;
-    background-color: whitesmoke;
 }
 .bodytextleft{
     display: inline-block;
@@ -50,7 +53,7 @@ h1{
 .eb-ul{ display: inline-block;
     text-align: left;
     max-width: 33%;}
-    
+
 .footer{
     background-color:rgb(5, 5, 97) ;
     color: whitesmoke;
